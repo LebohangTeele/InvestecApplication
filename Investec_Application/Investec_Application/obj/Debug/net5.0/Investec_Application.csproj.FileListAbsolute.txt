@@ -1,0 +1,16 @@
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.exe
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.deps.json
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.runtimeconfig.json
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.runtimeconfig.dev.json
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.dll
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\ref\Investec_Application.dll
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\bin\Debug\net5.0\Investec_Application.pdb
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.csprojAssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.dll
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\ref\Investec_Application.dll
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.pdb
+C:\Users\GIGABYTE\source\repos\Investec_Application\Investec_Application\obj\Debug\net5.0\Investec_Application.genruntimeconfig.cache
